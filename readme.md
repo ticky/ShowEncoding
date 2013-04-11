@@ -5,7 +5,7 @@ Simple plugin for Sublime Text 2 to show the file encoding in the status bar.
 ## Installation
 
 * CD into your Sublime Text 2 Packages directory
-* `git clone https://github.com/ticky/ShowEncoding.git ShowEncoding`
+* `git clone https://github.com/geoffstokes/ShowEncoding.git ShowEncoding`
 
 ## Usage
 
