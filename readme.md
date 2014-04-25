@@ -1,4 +1,4 @@
-# ShowEncoding
+# Show Encoding
 
 Simple plugin for Sublime Text 2 to show the file encoding in the status bar.
 
@@ -10,7 +10,7 @@ You may either install using Package Control (which gains you automatic updates 
 
 1. Install [Sublime Package Control](http://wbond.net/sublime_packages/package_control/installation).
 2. Run `Package Control: Install Package` from the Command Palette
-3. Find and install the `ShowEncoding` plugin
+3. Find and install the `Show Encoding` plugin
 
 ### Manual
 
@@ -19,7 +19,7 @@ You may either install using Package Control (which gains you automatic updates 
 	* OS X: `~/Library/Application Support/Sublime Text 2/Packages/`
 	* Linux: `~/.config/sublime-text-2/Packages/`
 	* Portable Installation: `Sublime Text 2/Data/Packages/`
-2. `git clone https://github.com/geoffstokes/ShowEncoding.git ShowEncoding`
+2. `git clone https://git.gitorious.org/geoffstokes/show-encoding.git`
 
 ## Usage
 
