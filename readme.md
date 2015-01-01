@@ -1,6 +1,6 @@
 # Show Encoding
 
-Simple plugin for Sublime Text 2 to show the file encoding in the status bar.
+Simple plugin for Sublime Text 2 to show the file encoding in the status bar. Sublime Text 3 already has this feature since build 3059: http://stackoverflow.com/a/20657899/288906
 
 ## Installation
 
